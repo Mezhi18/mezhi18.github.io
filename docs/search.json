@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yan Mezhiborsky",
-    "section": "",
-    "text": "Hello, my name is Yan Mezhiborsky and i am and undergraduate student at the University of Toronto. I am Studying Mathematics and statistics. While I am still undecided in a specific career, some fields i am interested in are Data Science, Finance and Tech."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yan Mezhiborsky",
+    "section": "",
+    "text": "Hello, my name is Yan Mezhiborsky and i am and undergraduate student at the University of Toronto. I am Studying Mathematics and statistics. While I am still undecided in a specific career, some fields i am interested in are Data Science, Finance and Tech."
   }
 ]
