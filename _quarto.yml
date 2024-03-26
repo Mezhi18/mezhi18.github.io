@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mezhi18.github.io"
+  title: "Yan Mezhiborsky"
   navbar:
     left:
       - href: index.qmd
