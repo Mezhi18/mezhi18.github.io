@@ -1,5 +1,7 @@
 ---
 title: "Yan Mezhiborsky's CV"
+engine: knitr
+freeze: false
 cv:
   pdf: "Yan_Mezhiborsky_Feb_2024.pdf"
 ---
